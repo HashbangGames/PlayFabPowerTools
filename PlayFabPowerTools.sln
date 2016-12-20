@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayFabPowerTools", "PlayFabPowerTools\PlayFabPowerTools.csproj", "{183FB1DD-F787-464B-8217-7D5D10423E5A}"
 EndProject
 Global
